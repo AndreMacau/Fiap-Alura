@@ -78,3 +78,5 @@ C:\FiapAquecimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Jso
 C:\FiapAquecimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\FiapAquecimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\FiapAquecimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\FiapAquecimento\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+C:\FiapAquecimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
