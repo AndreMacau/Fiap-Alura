@@ -1394,11 +1394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FiapAquecimento\\FilmesApi\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+      "projectUniqueName": "C:\\FiapAquecimento\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
       "projectName": "FilmesApi",
-      "projectPath": "C:\\FiapAquecimento\\FilmesApi\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+      "projectPath": "C:\\FiapAquecimento\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\FiapAquecimento\\FilmesApi\\FilmesApi\\FilmesApi\\obj\\",
+      "outputPath": "C:\\FiapAquecimento\\FilmesApi\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
